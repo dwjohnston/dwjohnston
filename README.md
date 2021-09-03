@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This feature is cool, but I can't think of anything useful to put here. 
+
 <!--
 **dwjohnston/dwjohnston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
