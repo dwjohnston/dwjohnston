@@ -1,18 +1,18 @@
 ### Hi there 👋
 
-This feature is cool, but I can't think of anything useful to put here. 
+Most of the repos here are bug repros and interview code challenges, and a few abandoned side projects. 
 
-<!--
-**dwjohnston/dwjohnston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+The best things to look at are: 
 
-Here are some ideas to get you started:
+- [My CV](https://github.com/dwjohnston/cv) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tutorials 
+
+- [JavaScript 101](https://github.com/dwjohnston/javascript-101)
+- [TypeScript](https://github.com/dwjohnston/ts-tutorial-series) 
+
+#### Projects
+
+- [node-cli-character-matrix](https://github.com/dwjohnston/node-cli-character-matrix) - A simple node-based tool for making games in the CLI for example. 
+- [geoart-take-100](https://github.com/dwjohnston/geoart-take-100) - My current side project - making geometric art.
+
