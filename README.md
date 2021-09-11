@@ -19,5 +19,12 @@ The best things to look at are:
 
 ### A little about me 
 
-Currently living Melbourne with my wife. We like playing boardgames and pinball. 
+Currently living Melbourne with my wife and soon a child.
+
+Current hobbies are: 
+
+- Board games
+- Pinball 
+- Painting miniatures
+- Picking up rubbish on walks. 
 
