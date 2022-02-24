@@ -31,4 +31,6 @@ Current hobbies are:
 - Pinball 
 - Painting miniatures
 - Picking up rubbish on walks. 
+- Got a typewriter. 
+- Flying kites. 
 
