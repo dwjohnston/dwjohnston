@@ -23,7 +23,7 @@ The best things to look at are:
 
 ### A little about me 
 
-Currently living Melbourne with my wife and soon a child.
+Currently living Melbourne with my wife and child.
 
 Current hobbies are: 
 
