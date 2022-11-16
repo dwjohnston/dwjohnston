@@ -30,7 +30,7 @@ Current hobbies are:
 - Board games
 - Pinball 
 - Painting miniatures
-- Picking up rubbish on walks. 
+- ~~Picking up rubbish on walks.~~ Can't do that with a pram. 
 - Got a typewriter. 
 - Flying kites. 
 
