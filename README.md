@@ -14,7 +14,7 @@ The best things to look at are:
 #### Projects
 
 - [node-cli-character-matrix](https://github.com/dwjohnston/node-cli-character-matrix) - A simple node-based tool for making games in the CLI for example. 
-- [geoart-take-100](https://github.com/dwjohnston/geoart-take-100) - My current side project - making geometric art.
+- [geoart-take-100](https://github.com/dwjohnston/geoart-take-100) - An abandoned geometric art project
 
 #### Code Demos
 
