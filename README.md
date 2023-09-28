@@ -2,9 +2,7 @@
 
 Most of the repos here are bug repros and interview code challenges, and a few abandoned side projects. 
 
-The best things to look at are: 
-
-- [My CV](https://github.com/dwjohnston/cv) 
+[My blog](https://blacksheepcode.com/)
 
 #### Tutorials 
 
