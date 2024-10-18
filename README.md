@@ -4,31 +4,26 @@ Most of the repos here are bug repros and interview code challenges, and a few a
 
 [My blog](https://blacksheepcode.com/)
 
-#### Tutorials 
-
-- [JavaScript 101](https://github.com/dwjohnston/javascript-101)
-- [TypeScript](https://github.com/dwjohnston/ts-tutorial-series) 
-
 #### Projects
 
-- [node-cli-character-matrix](https://github.com/dwjohnston/node-cli-character-matrix) - A simple node-based tool for making games in the CLI for example. 
-- [geoart-take-100](https://github.com/dwjohnston/geoart-take-100) - An abandoned geometric art project
-
-#### Code Demos
-
-- [React Layout Examples](https://github.com/dwjohnston/react-layout-approaches)
+[react-github-permalink](https://www.npmjs.com/package/react-github-permalink) - Given a Github permalink, dispaly the code block. Also, given a Github issue link, display issue information. 
 
 
 ### A little about me 
 
-Currently living Melbourne with my wife and child.
+Originally from New Zealand, I moved to Melbourne, Australia in 2018. I live here with my wife and child.
 
-Current hobbies are: 
+As a software developer: 
+
+I'm JavaScript/TypeScript/modern web developer. 
+
+A lot of my focus is around testability and developer experience. 'How do we design this component such that it's testable?', 'How do we make it easy for developers to do the right thing?'. 
+
+Some of my hobbies are: 
 
 - Board games
 - Pinball 
 - Painting miniatures
-- ~~Picking up rubbish on walks.~~ Can't do that with a pram. 
-- Got nine typewriters
+- Typewriters (I own 11 at time of writing, of those five are in a state of disrepair)
 - Flying kites. 
 
