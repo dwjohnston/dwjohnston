@@ -6,7 +6,7 @@ Most of the repos here are bug repros and interview code challenges, and a few a
 
 #### Projects
 
-[react-github-permalink](https://www.npmjs.com/package/react-github-permalink) - Given a Github permalink, dispaly the code block. Also, given a Github issue link, display issue information. 
+[react-github-permalink](https://www.npmjs.com/package/react-github-permalink) - Given a Github permalink, display the code block. Also, given a Github issue link, display issue information. 
 
 
 ### A little about me 
