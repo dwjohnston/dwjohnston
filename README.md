@@ -22,7 +22,8 @@ A lot of my focus is around testability and developer experience. 'How do we des
 Some of my hobbies are: 
 
 - Board games
-- Pinball 
+- Pinball
+- Reading - mostly Science fiction and fantasy, also political theory, though I often find it a bit dense. 
 - Painting miniatures
 - Typewriters (I own 11 at time of writing, of those five are in a state of disrepair)
 - Flying kites. 
