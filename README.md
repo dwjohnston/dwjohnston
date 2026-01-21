@@ -11,7 +11,7 @@ Most of the repos here are bug repros and interview code challenges, and a few a
 
 ### A little about me 
 
-Originally from New Zealand, I moved to Melbourne, Australia in 2018. I live here with my wife and child.
+Originally from New Zealand, I moved to Melbourne, Australia in 2018. I live here with my wife and three children.
 
 As a software developer: 
 
